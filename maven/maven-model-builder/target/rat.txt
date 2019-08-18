@@ -1,0 +1,139 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-08-18T19:23:51+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 113
+
+Apache Licensed: 113
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/pom.xml
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/building/AbstractModelBuildingListener.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/building/DefaultModelBuilder.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/building/DefaultModelBuilderFactory.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/building/DefaultModelBuildingEvent.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/building/DefaultModelBuildingRequest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/building/DefaultModelBuildingResult.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/building/DefaultModelProblem.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/building/DefaultModelProblemCollector.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/building/DefaultModelProcessor.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/building/FileModelSource.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/building/FilterModelBuildingRequest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelBuilder.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelBuildingEvent.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelBuildingEventCatapult.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelBuildingException.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelBuildingListener.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelBuildingRequest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelBuildingResult.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelCache.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelCacheTag.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelData.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelProblem.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelProblemCollector.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelProblemCollectorExt.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelProblemCollectorRequest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelProblemUtils.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelProcessor.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelSource.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelSource2.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/building/Result.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/building/StringModelSource.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/building/UrlModelSource.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/composition/DefaultDependencyManagementImporter.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/composition/DependencyManagementImporter.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/inheritance/DefaultInheritanceAssembler.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/inheritance/InheritanceAssembler.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/interpolation/AbstractStringBasedModelInterpolator.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/interpolation/BuildTimestampValueSource.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/interpolation/MavenBuildTimestamp.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/interpolation/ModelInterpolator.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/interpolation/PathTranslatingPostProcessor.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/interpolation/ProblemDetectingValueSource.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/interpolation/StringSearchModelInterpolator.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/interpolation/StringVisitorModelInterpolator.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/interpolation/UrlNormalizingPostProcessor.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/io/DefaultModelReader.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/io/DefaultModelWriter.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/io/ModelParseException.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/io/ModelReader.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/io/ModelWriter.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/locator/DefaultModelLocator.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/locator/ModelLocator.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/management/DefaultDependencyManagementInjector.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/management/DefaultPluginManagementInjector.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/management/DependencyManagementInjector.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/management/PluginManagementInjector.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/merge/MavenModelMerger.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/normalization/DefaultModelNormalizer.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/normalization/ModelNormalizer.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/path/DefaultModelPathTranslator.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/path/DefaultModelUrlNormalizer.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/path/DefaultPathTranslator.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/path/DefaultUrlNormalizer.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/path/ModelPathTranslator.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/path/ModelUrlNormalizer.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/path/PathTranslator.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/path/UrlNormalizer.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/plugin/DefaultPluginConfigurationExpander.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/plugin/DefaultReportConfigurationExpander.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/plugin/DefaultReportingConverter.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/plugin/LifecycleBindingsInjector.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/plugin/PluginConfigurationExpander.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/plugin/ReportConfigurationExpander.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/plugin/ReportingConverter.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/profile/activation/FileProfileActivator.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/profile/activation/JdkVersionProfileActivator.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/profile/activation/OperatingSystemProfileActivator.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/profile/activation/ProfileActivator.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/profile/activation/PropertyProfileActivator.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/profile/DefaultProfileActivationContext.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/profile/DefaultProfileInjector.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/profile/DefaultProfileSelector.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/profile/ProfileActivationContext.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/profile/ProfileInjector.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/profile/ProfileSelector.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/resolution/InvalidRepositoryException.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/resolution/ModelResolver.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/resolution/UnresolvableModelException.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/resolution/WorkspaceModelResolver.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/superpom/DefaultSuperPomProvider.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/superpom/SuperPomProvider.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/validation/DefaultModelValidator.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/java/org/apache/maven/model/validation/ModelValidator.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/mdo/profiles.mdo
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/main/resources/org/apache/maven/model/pom-4.0.0.xml
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/site/apt/index.apt
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/site/apt/super-pom.apt.vm
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/site/site.xml
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/test/java/org/apache/maven/model/building/ComplexActivationTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/test/java/org/apache/maven/model/building/DefaultModelBuilderFactoryTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/test/java/org/apache/maven/model/building/FileModelSourceTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/test/java/org/apache/maven/model/building/SimpleProblemCollector.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/test/java/org/apache/maven/model/inheritance/DefaultInheritanceAssemblerTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/test/java/org/apache/maven/model/interpolation/AbstractModelInterpolatorTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/test/java/org/apache/maven/model/interpolation/MavenBuildTimestampTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/test/java/org/apache/maven/model/interpolation/StringSearchModelInterpolatorTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/test/java/org/apache/maven/model/merge/MavenModelMergerTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/test/java/org/apache/maven/model/path/DefaultUrlNormalizerTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/test/java/org/apache/maven/model/profile/activation/AbstractProfileActivatorTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/test/java/org/apache/maven/model/profile/activation/JdkVersionProfileActivatorTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/test/java/org/apache/maven/model/profile/activation/PropertyProfileActivatorTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model-builder/src/test/java/org/apache/maven/model/validation/DefaultModelValidatorTest.java
+ 
+*****************************************************

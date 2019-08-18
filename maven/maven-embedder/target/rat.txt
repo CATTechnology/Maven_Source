@@ -1,0 +1,72 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-08-18T19:28:13+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 46
+
+Apache Licensed: 46
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/pom.xml
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/examples/simple-project/pom.xml
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/examples/simple-project/settings.xml
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/examples/simple-project/src/main/java/org/apache/maven/embedder/App.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/examples/simple-project/src/test/java/org/apache/maven/embedder/AppTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/main/java/org/apache/maven/cli/CleanArgument.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/main/java/org/apache/maven/cli/CLIManager.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/main/java/org/apache/maven/cli/CLIReportingUtils.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/main/java/org/apache/maven/cli/CliRequest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/main/java/org/apache/maven/cli/configuration/ConfigurationProcessor.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/main/java/org/apache/maven/cli/configuration/SettingsXmlConfigurationProcessor.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/main/java/org/apache/maven/cli/event/DefaultEventSpyContext.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/main/java/org/apache/maven/cli/event/ExecutionEventLogger.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/main/java/org/apache/maven/cli/internal/BootstrapCoreExtensionManager.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/main/java/org/apache/maven/cli/logging/BaseSlf4jConfiguration.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/main/java/org/apache/maven/cli/logging/impl/Log4j2Configuration.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/main/java/org/apache/maven/cli/logging/impl/LogbackConfiguration.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/main/java/org/apache/maven/cli/logging/impl/Slf4jSimpleConfiguration.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/main/java/org/apache/maven/cli/logging/impl/UnsupportedSlf4jBindingConfiguration.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/main/java/org/apache/maven/cli/logging/Slf4jConfiguration.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/main/java/org/apache/maven/cli/logging/Slf4jConfigurationFactory.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/main/java/org/apache/maven/cli/logging/Slf4jLogger.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/main/java/org/apache/maven/cli/logging/Slf4jLoggerManager.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/main/java/org/apache/maven/cli/logging/Slf4jStdoutLogger.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/main/java/org/apache/maven/cli/MavenCli.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/main/java/org/apache/maven/cli/transfer/AbstractMavenTransferListener.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/main/java/org/apache/maven/cli/transfer/BatchModeMavenTransferListener.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/main/java/org/apache/maven/cli/transfer/ConsoleMavenTransferListener.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/main/java/org/apache/maven/cli/transfer/QuietMavenTransferListener.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/main/java/org/apache/maven/cli/transfer/Slf4jMavenTransferListener.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/main/java/org/slf4j/impl/MavenSlf4jSimpleFriend.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/main/java/org/slf4j/MavenSlf4jFriend.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/main/mdo/core-extensions.mdo
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/main/resources/META-INF/maven/slf4j-configuration.properties
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/site/apt/cli.apt.vm
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/site/apt/index.apt.vm
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/site/apt/logging.apt
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/site/site.xml
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/test/extensions/META-INF/plexus/components.xml
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/test/java/org/apache/maven/cli/CleanArgumentTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/test/java/org/apache/maven/cli/CLIManagerDocumentationTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/test/java/org/apache/maven/cli/CLIManagerTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/test/java/org/apache/maven/cli/CLIReportingUtilsTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/test/java/org/apache/maven/cli/event/ExecutionEventLoggerTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/test/java/org/apache/maven/cli/MavenCliTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-embedder/src/test/java/org/apache/maven/cli/transfer/FileSizeFormatTest.java
+ 
+*****************************************************

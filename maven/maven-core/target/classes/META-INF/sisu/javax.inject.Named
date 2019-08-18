@@ -1,0 +1,13 @@
+org.apache.maven.execution.DefaultMavenExecutionRequestPopulator
+org.apache.maven.toolchain.io.DefaultToolchainsReader
+org.apache.maven.ReactorReader
+org.apache.maven.classrealm.DefaultClassRealmManager
+org.apache.maven.execution.scope.internal.MojoExecutionScopeCoreModule
+org.apache.maven.internal.aether.DefaultRepositorySystemSessionFactory
+org.apache.maven.lifecycle.internal.LifecycleDependencyResolver
+org.apache.maven.toolchain.building.DefaultToolchainsBuilder
+org.apache.maven.lifecycle.internal.DefaultProjectArtifactFactory
+org.apache.maven.extension.internal.CoreExportsProvider
+org.apache.maven.DefaultArtifactFilterManager
+org.apache.maven.toolchain.io.DefaultToolchainsWriter
+org.apache.maven.session.scope.internal.SessionScopeModule

@@ -1,0 +1,43 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-08-18T19:20:33+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 17
+
+Apache Licensed: 17
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-builder-support/pom.xml
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-builder-support/src/main/java/org/apache/maven/building/DefaultProblem.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-builder-support/src/main/java/org/apache/maven/building/DefaultProblemCollector.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-builder-support/src/main/java/org/apache/maven/building/FileSource.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-builder-support/src/main/java/org/apache/maven/building/Problem.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-builder-support/src/main/java/org/apache/maven/building/ProblemCollector.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-builder-support/src/main/java/org/apache/maven/building/ProblemCollectorFactory.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-builder-support/src/main/java/org/apache/maven/building/Source.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-builder-support/src/main/java/org/apache/maven/building/StringSource.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-builder-support/src/main/java/org/apache/maven/building/UrlSource.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-builder-support/src/site/site.xml
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-builder-support/src/test/java/org/apache/maven/building/DefaultProblemCollectorTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-builder-support/src/test/java/org/apache/maven/building/DefaultProblemTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-builder-support/src/test/java/org/apache/maven/building/FileSourceTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-builder-support/src/test/java/org/apache/maven/building/ProblemCollectorFactoryTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-builder-support/src/test/java/org/apache/maven/building/StringSourceTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-builder-support/src/test/java/org/apache/maven/building/UrlSourceTest.java
+ 
+*****************************************************

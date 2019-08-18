@@ -1,0 +1,61 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-08-18T19:26:03+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 35
+
+Apache Licensed: 35
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-resolver-provider/pom.xml
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/ArtifactDescriptorReaderDelegate.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/ArtifactDescriptorUtils.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultArtifactDescriptorReader.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultModelCache.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultModelResolver.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultVersionRangeResolver.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultVersionResolver.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/LocalSnapshotMetadata.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/LocalSnapshotMetadataGenerator.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/MavenAetherModule.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/MavenMetadata.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/MavenRepositorySystemUtils.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/MavenResolverModule.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/MavenSnapshotMetadata.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/MavenWorkspaceReader.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/package-info.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/RelocatedArtifact.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/RemoteSnapshotMetadata.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/RemoteSnapshotMetadataGenerator.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/SnapshotMetadataGeneratorFactory.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/VersionsMetadata.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/VersionsMetadataGenerator.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/VersionsMetadataGeneratorFactory.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-resolver-provider/src/site/apt/index.apt
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-resolver-provider/src/site/site.xml
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-resolver-provider/src/test/java/org/apache/maven/repository/internal/AbstractRepositoryTestCase.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-resolver-provider/src/test/java/org/apache/maven/repository/internal/DefaultArtifactDescriptorReaderTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-resolver-provider/src/test/java/org/apache/maven/repository/internal/DefaultModelResolverTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-resolver-provider/src/test/java/org/apache/maven/repository/internal/DefaultVersionResolverTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-resolver-provider/src/test/java/org/apache/maven/repository/internal/MavenRepositorySystemUtilsTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-resolver-provider/src/test/java/org/apache/maven/repository/internal/RemoteSnapshotMetadataTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-resolver-provider/src/test/java/org/apache/maven/repository/internal/RepositorySystemTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-resolver-provider/src/test/java/org/apache/maven/repository/internal/util/ConsoleRepositoryListener.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-resolver-provider/src/test/java/org/apache/maven/repository/internal/util/ConsoleTransferListener.java
+ 
+*****************************************************

@@ -1,0 +1,71 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-08-18T19:19:35+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 45
+
+Apache Licensed: 45
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/pom.xml
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/main/java/org/apache/maven/model/io/xpp3/package-info.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/main/java/org/apache/maven/model/merge/ModelMerger.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/main/java/org/apache/maven/model/merge/package-info.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/main/java/org/apache/maven/model/package-info.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/main/mdo/maven.mdo
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/site/apt/index.apt
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/site/site.xml
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/ActivationFileTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/ActivationOSTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/ActivationPropertyTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/ActivationTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/BuildTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/CiManagementTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/ContributorTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/DependencyManagementTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/DependencyTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/DeploymentRepositoryTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/DeveloperTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/DistributionManagementTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/ExclusionTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/ExtensionTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/IssueManagementTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/LicenseTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/MailingListTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/ModelTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/NotifierTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/OrganizationTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/ParentTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/PluginConfigurationTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/PluginContainerTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/PluginExecutionTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/PluginManagementTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/PluginTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/PrerequisitesTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/ProfileTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/RelocationTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/ReportingTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/ReportPluginTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/ReportSetTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/RepositoryPolicyTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/RepositoryTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/ResourceTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/ScmTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-model/src/test/java/org/apache/maven/model/SiteTest.java
+ 
+*****************************************************

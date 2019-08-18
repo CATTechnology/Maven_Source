@@ -1,0 +1,10 @@
+org\apache\maven\building\FileSource.class
+org\apache\maven\building\Problem$Severity.class
+org\apache\maven\building\DefaultProblemCollector.class
+org\apache\maven\building\ProblemCollector.class
+org\apache\maven\building\StringSource.class
+org\apache\maven\building\ProblemCollectorFactory.class
+org\apache\maven\building\DefaultProblem.class
+org\apache\maven\building\Source.class
+org\apache\maven\building\Problem.class
+org\apache\maven\building\UrlSource.class

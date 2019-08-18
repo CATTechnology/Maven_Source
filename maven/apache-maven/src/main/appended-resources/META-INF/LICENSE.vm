@@ -1,0 +1,66 @@
+##
+## Licensed to the Apache Software Foundation (ASF) under one
+## or more contributor license agreements.  See the NOTICE file
+## distributed with this work for additional information
+## regarding copyright ownership.  The ASF licenses this file
+## to you under the Apache License, Version 2.0 (the
+## "License"); you may not use this file except in compliance
+## with the License.  You may obtain a copy of the License at
+##
+##  http://www.apache.org/licenses/LICENSE-2.0
+##
+## Unless required by applicable law or agreed to in writing,
+## software distributed under the License is distributed on an
+## "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+## KIND, either express or implied.  See the License for the
+## specific language governing permissions and limitations
+## under the License.
+##
+
+
+Apache Maven includes a number of components and libraries with separate 
+copyright notices and license terms. Your use of those components are 
+subject to the terms and conditions of the following licenses: 
+##
+#set ( $apacheLicenseNames = [ "Apache License, Version 2.0", "The Apache Software License, Version 2.0",
+    "ASLv2", "Apache Public License 2.0", "Apache 2.0" ] )
+#set ( $MITLicenseNames = [ "MIT License", "MIT license", "The MIT License" ] )
+#foreach ( $project in $projects )
+#**##foreach ( $license in $project.licenses)
+#*  *##if ( !$apacheLicenseNames.contains( $license.name ) )
+#*    *##set ( $artId = $project.artifact.artifactId )
+#*    *##set ( $url = $license.url )
+#*    *##set ( $spdx = false )
+#*    *##set ( $includeLicense = true )
+#*    *###
+#*    *##if ( ( $project.artifact.toString() == "org.checkerframework:checker-compat-qual:jar:2.0.0" )
+              && ( $url == "http://www.gnu.org/software/classpath/license.html" ) )
+#*      *### checkerframework is MIT for qual: https://github.com/typetools/checker-framework/blob/master/LICENSE.txt
+#*      *##set ( $includeLicense = false )
+#*    *##end
+#*    *##if ( $license.name == "COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0" )
+#*      *##set ( $spdx = 'CDDL-1.0' )
+#*    *##end
+#*    *##if ( $MITLicenseNames.contains( $license.name ) )
+#*      *##set ( $spdx = 'MIT' )
+#*    *##end
+#*    *##if ( $license.name == "Eclipse Public License, Version 1.0" )
+#*      *##set ( $spdx = 'EPL-1.0' )
+#*    *##end
+#*    *##if ( $includeLicense )
+#*      *##if ( $url || $spdx )
+#*        *##set ( $licFile = 'lib/' + $artId + '.license' )
+#*        *##if ( $spdx )
+#*          *##set ( $downloaded = $locator.getResourceAsFile( "licenses/${spdx}.txt", "licenses/${licFile}" ) )
+#*        *##else
+#*          *##set ( $downloaded = $locator.getResourceAsFile( $url, "licenses/${licFile}" ) )
+#*        *##end
+#*      *##end
+
+- $project.name#if ( $project.url ) ($project.url)#end $project.artifact
+    License: $license.name#if ( $spdx ) ($spdx)#end#if ( $url )  $url ($licFile)#end
+
+#*    *##end
+#*  *##end
+#**##end
+#end

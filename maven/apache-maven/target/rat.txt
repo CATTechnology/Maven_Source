@@ -1,0 +1,46 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-08-18T19:29:21+08:00
+
+Notes: 3
+Binaries: 0
+Archives: 0
+Standards: 17
+
+Apache Licensed: 16
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/apache-maven/pom.xml
+  N     C:/Users/DLF/Desktop/CRT/maven/maven/apache-maven/README.txt
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/apache-maven/src/bin/mvn
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/apache-maven/src/bin/mvn.cmd
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/apache-maven/src/bin/mvnDebug
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/apache-maven/src/bin/mvnDebug.cmd
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/apache-maven/src/bin/mvnyjp
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/apache-maven/src/conf/logging/simplelogger.properties
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/apache-maven/src/conf/settings.xml
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/apache-maven/src/conf/toolchains.xml
+  N     C:/Users/DLF/Desktop/CRT/maven/maven/apache-maven/src/lib/ext/README.txt
+  N     C:/Users/DLF/Desktop/CRT/maven/maven/apache-maven/src/lib/jansi-native/README.txt
+  MIT   C:/Users/DLF/Desktop/CRT/maven/maven/apache-maven/src/main/appended-resources/licenses/MIT.txt
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/apache-maven/src/main/appended-resources/META-INF/LICENSE.vm
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/apache-maven/src/main/assembly/bin.xml
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/apache-maven/src/main/assembly/component.xml
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/apache-maven/src/main/assembly/dir.xml
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/apache-maven/src/main/assembly/src.xml
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/apache-maven/src/site/site.xml
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/apache-maven/src/test/java/org/apache/maven/settings/GlobalSettingsTest.java
+ 
+*****************************************************

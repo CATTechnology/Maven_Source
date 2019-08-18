@@ -1,0 +1,52 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-08-18T19:20:32+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 26
+
+Apache Licensed: 26
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-plugin-api/pom.xml
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-plugin-api/src/main/java/org/apache/maven/monitor/logging/DefaultLog.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-plugin-api/src/main/java/org/apache/maven/plugin/AbstractMojo.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-plugin-api/src/main/java/org/apache/maven/plugin/AbstractMojoExecutionException.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-plugin-api/src/main/java/org/apache/maven/plugin/ContextEnabled.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-plugin-api/src/main/java/org/apache/maven/plugin/descriptor/DuplicateMojoDescriptorException.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-plugin-api/src/main/java/org/apache/maven/plugin/descriptor/DuplicateParameterException.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-plugin-api/src/main/java/org/apache/maven/plugin/descriptor/InvalidParameterException.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-plugin-api/src/main/java/org/apache/maven/plugin/descriptor/InvalidPluginDescriptorException.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-plugin-api/src/main/java/org/apache/maven/plugin/descriptor/MojoDescriptor.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-plugin-api/src/main/java/org/apache/maven/plugin/descriptor/Parameter.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-plugin-api/src/main/java/org/apache/maven/plugin/descriptor/PluginDescriptor.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-plugin-api/src/main/java/org/apache/maven/plugin/descriptor/PluginDescriptorBuilder.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-plugin-api/src/main/java/org/apache/maven/plugin/descriptor/Requirement.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-plugin-api/src/main/java/org/apache/maven/plugin/logging/Log.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-plugin-api/src/main/java/org/apache/maven/plugin/logging/SystemStreamLog.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-plugin-api/src/main/java/org/apache/maven/plugin/Mojo.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-plugin-api/src/main/java/org/apache/maven/plugin/MojoExecutionException.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-plugin-api/src/main/java/org/apache/maven/plugin/MojoFailureException.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-plugin-api/src/main/java/org/apache/maven/plugin/MojoNotFoundException.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-plugin-api/src/main/mdo/lifecycle.mdo
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-plugin-api/src/main/mdo/plugin.mdo
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-plugin-api/src/site/apt/index.apt
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-plugin-api/src/site/site.xml
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-plugin-api/src/test/java/org/apache/maven/plugin/descriptor/PluginDescriptorBuilderTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-plugin-api/src/test/java/org/apache/maven/plugin/lifecycle/LifecycleXpp3ReaderTest.java
+ 
+*****************************************************

@@ -1,0 +1,31 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-08-18T19:23:52+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 5
+
+Apache Licensed: 5
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-settings/pom.xml
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-settings/src/main/java/org/apache/maven/settings/RuntimeInfo.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-settings/src/main/mdo/settings.mdo
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-settings/src/site/apt/index.apt
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-settings/src/site/site.xml
+ 
+*****************************************************

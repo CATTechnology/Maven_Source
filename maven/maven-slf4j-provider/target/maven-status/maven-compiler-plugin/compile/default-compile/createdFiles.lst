@@ -1,0 +1,12 @@
+org\slf4j\impl\SimpleLoggerFactory.class
+org\slf4j\impl\OutputChoice$1.class
+org\slf4j\impl\StaticLoggerBinder.class
+org\slf4j\impl\OutputChoice.class
+org\slf4j\impl\SimpleLoggerConfiguration.class
+org\slf4j\impl\MavenSimpleLogger.class
+org\slf4j\impl\SimpleLogger.class
+org\slf4j\impl\StaticMDCBinder.class
+org\slf4j\impl\SimpleLoggerConfiguration$1.class
+org\slf4j\impl\MavenSimpleLoggerFactory.class
+org\slf4j\impl\StaticMarkerBinder.class
+org\slf4j\impl\OutputChoice$OutputChoiceType.class

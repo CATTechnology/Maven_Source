@@ -1,0 +1,9 @@
+org\apache\maven\artifact\repository\metadata\io\xpp3\MetadataXpp3Reader$ContentTransformer.class
+org\apache\maven\artifact\repository\metadata\io\xpp3\MetadataXpp3Writer.class
+org\apache\maven\artifact\repository\metadata\Snapshot.class
+org\apache\maven\artifact\repository\metadata\Plugin.class
+org\apache\maven\artifact\repository\metadata\io\xpp3\MetadataXpp3Reader.class
+org\apache\maven\artifact\repository\metadata\Metadata.class
+org\apache\maven\artifact\repository\metadata\SnapshotVersion.class
+org\apache\maven\artifact\repository\metadata\Versioning.class
+org\apache\maven\artifact\repository\metadata\io\xpp3\MetadataXpp3Reader$1.class
