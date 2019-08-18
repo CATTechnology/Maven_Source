@@ -1,0 +1,63 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-08-18T19:20:12+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 37
+
+Apache Licensed: 37
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/pom.xml
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/main/java/org/apache/maven/artifact/Artifact.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/main/java/org/apache/maven/artifact/ArtifactUtils.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/main/java/org/apache/maven/artifact/DefaultArtifact.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/main/java/org/apache/maven/artifact/handler/ArtifactHandler.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/main/java/org/apache/maven/artifact/InvalidArtifactRTException.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/main/java/org/apache/maven/artifact/metadata/ArtifactMetadata.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/main/java/org/apache/maven/artifact/repository/ArtifactRepository.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/main/java/org/apache/maven/artifact/repository/ArtifactRepositoryPolicy.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/main/java/org/apache/maven/artifact/repository/Authentication.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/main/java/org/apache/maven/artifact/repository/layout/ArtifactRepositoryLayout.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/main/java/org/apache/maven/artifact/repository/layout/ArtifactRepositoryLayout2.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/main/java/org/apache/maven/artifact/repository/metadata/RepositoryMetadataStoreException.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/main/java/org/apache/maven/artifact/resolver/AbstractArtifactResolutionException.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/main/java/org/apache/maven/artifact/resolver/ArtifactNotFoundException.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/main/java/org/apache/maven/artifact/resolver/ArtifactResolutionException.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/main/java/org/apache/maven/artifact/resolver/CyclicDependencyException.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/main/java/org/apache/maven/artifact/resolver/filter/ArtifactFilter.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/main/java/org/apache/maven/artifact/resolver/MultipleArtifactsNotFoundException.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/main/java/org/apache/maven/artifact/versioning/ArtifactVersion.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/main/java/org/apache/maven/artifact/versioning/ComparableVersion.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/main/java/org/apache/maven/artifact/versioning/DefaultArtifactVersion.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/main/java/org/apache/maven/artifact/versioning/InvalidVersionSpecificationException.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/main/java/org/apache/maven/artifact/versioning/OverConstrainedVersionException.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/main/java/org/apache/maven/artifact/versioning/Restriction.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/main/java/org/apache/maven/artifact/versioning/VersionRange.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/main/java/org/apache/maven/repository/legacy/metadata/ArtifactMetadata.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/main/java/org/apache/maven/repository/Proxy.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/site/apt/index.apt
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/site/site.xml
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/test/java/org/apache/maven/artifact/ArtifactUtilsTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/test/java/org/apache/maven/artifact/DefaultArtifactTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/test/java/org/apache/maven/artifact/handler/ArtifactHandlerMock.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/test/java/org/apache/maven/artifact/versioning/ComparableVersionIT.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/test/java/org/apache/maven/artifact/versioning/ComparableVersionTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/test/java/org/apache/maven/artifact/versioning/DefaultArtifactVersionTest.java
+  AL    C:/Users/DLF/Desktop/CRT/maven/maven/maven-artifact/src/test/java/org/apache/maven/artifact/versioning/VersionRangeTest.java
+ 
+*****************************************************
